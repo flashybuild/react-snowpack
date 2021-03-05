@@ -1,5 +1,8 @@
 # New Project
 
+### Tutorial seguido paso a paso desde la web de snowpack
+Tengo este repositorio como plantilla base para aplicaciones de react desde cero.
+
 > ✨ Bootstrapped with Create Snowpack App (CSA).
 
 ## Available Scripts
